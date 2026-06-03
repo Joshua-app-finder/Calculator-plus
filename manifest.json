@@ -1,0 +1,13 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Calculator plus",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calculator",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Io.github.joshua-app-finder.Calculator-plus",
+  "description": "Standard calculator, with a simple interface for users to use easily."
+}
